@@ -263,18 +263,18 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
                 YÊU CẦU LUÔN LUÔN TUÂN THỦ CẤU TRÚC (CÔNG VĂN 2345):
                 I. Yêu cầu cần đạt: Trong phần này lại chia thành các phần sau: 
-                1. Học sinh thực hiện được, 
-                2. Học sinh vận dụng được, 
-                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, phát triển năng lực số), 
-                4. Phát triển phẩm chất.
+                1. Học sinh thực hiện được, (Sử dụng dấu gạch đầu dòng)
+                2. Học sinh vận dụng được, (Sử dụng dấu gạch đầu dòng)
+                3. Phát triển năng lực (bao gồm năng lực đặc thù, năng lực chung, phát triển năng lực số), (Sử dụng dấu gạch đầu dòng)
+                4. Phát triển phẩm chất.(Sử dụng dấu gạch đầu dòng)
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
-                    - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
-                    - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.
-                    - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
+                    - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có). (Sử dụng dấu gạch đầu dòng)
+                    - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn chút nữa.(Sử dụng dấu gạch đầu dòng)
+                    - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.(Sử dụng dấu gạch đầu dòng)
 
                 II. Đồ dùng dạy học
-                1. Giáo viên
-                2. Học sinh
+                1. Giáo viên, (Sử dụng dấu gạch đầu dòng)
+                2. Học sinh, (Sử dụng dấu gạch đầu dòng)
 
                 III. Tiến trình dạy học
                 [QUAN TRỌNG] PHẦN NÀY PHẢI TRÌNH BÀY DƯỚI DẠNG BẢNG (MARKDOWN TABLE) 2 CỘT. 
